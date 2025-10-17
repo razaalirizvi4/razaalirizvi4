@@ -3,7 +3,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="100%" height="300px" style="border-radius: 10px; margin-bottom: 20px;"/>
   
   <h1 align="center">Hello there, I'm Raza 👋</h1>
-  <h3 align="center">Sophomore at FAST-NUCES Lahore</h3>
+  <h3 align="center">Junior at FAST-NUCES Lahore</h3>
   
   <!-- About Me Section -->
   <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
